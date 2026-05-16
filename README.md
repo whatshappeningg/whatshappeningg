@@ -1,3 +1,5 @@
+[EN](README_EN.md)
+
 ## ¡Hola! Soy Althea ⭐  ``Junior GameDev``  
 
 Actualmente soy **estudiante de Diseño y Desarrollo de videojuegos**, aunque mi camino no ha sido precisamente directo.
