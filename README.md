@@ -21,10 +21,21 @@ Estoy segura de que mis anteriores estudios me han aportado conocimientos que me
 | - | - |
 | ![Unity](https://img.shields.io/static/v1?label=&message=Unity&color=344C59&logo=unity&logoColor=FFFFFF) | [![Tower-of-Babel](https://img.shields.io/static/v1?label=&message=Tower-of-Babel&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/Tower-of-Babel) [![Minimalist3D](https://img.shields.io/static/v1?label=&message=Minimalist3D&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/Minimalist3D) [![SolarSystem](https://img.shields.io/static/v1?label=&message=SolarSystem&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/SolarSystem) [![InputManager](https://img.shields.io/static/v1?label=&message=InputManager&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/InputManager) |
 | ![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF) | [![Optimizacion](https://img.shields.io/static/v1?label=&message=Optimizacion&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/Optimizacion) [![PIA](https://img.shields.io/static/v1?label=&message=PIA&color=404040&logo=github&logoColor=FFFFFF&labelColor=404040)](https://github.com/whatshappeningg/PIA) |
-
+  
 ---
 
 ### Descargar aquí [currículum](https://drive.google.com/file/d/1us_y_XqHu-KUJNKIewb6AvLzNRJfER5n/view?usp=drive_link).
+  
+<details>
+  <summary>Uso de la IA</summary>
+  
+En esta etapa de mi desarrollo me parece importante priorizar mi autonomía respecto a estra herramienta, y reforzar la capacidad de buscar, entender, valorar y aplicar. Por esto **su uso está reducido al mínimo. Toda la documentación (Readme, Linkedin...) es redactada por mí, todas la lógica y las ideas son enteramente mías**.  
+  
+Cuando en los Readme se menciona su uso para generar enunciados, el prompt ha sido proporcionado por mi escuela y el empleo de ChatGPT es requerido para el ejercico.  
+  
+Recurro a la IA cuando me encuentro con un problema que no encuentro forma de solucionar. Rara vez le pido código y nunca imágenes, ya que va en contra de mi ética.
+
+</details>
 
 
 
